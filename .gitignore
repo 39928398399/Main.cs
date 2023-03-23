@@ -1,11 +1,17 @@
-/main.css
+# first step
 *.ibc
 *.o
 *.cs
 *.hs
 *.d
 *.brainf***
+/build/output/*
 *.py
 *.name
 *.main_name
-/chape
+config/dev-env.conf
+
+# second step
+/main
+.DS_Store
+.idea
