@@ -9,6 +9,9 @@ java.utill.NullPointerException.import.error;
    exe = "executive";
 
 comment = [["repeating code"]]; (except):
+
+      java.file.import={"NullPointerException.java"}
+
     // To use randomUUID function.
 
 import java.util.UUID;
